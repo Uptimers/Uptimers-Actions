@@ -3,4 +3,4 @@ Uptimers Actions is a github action related
  now use setup CI/CD to use a Uptimers Operating System
 
 # Licences 
-[License](./LICENSES)
+[License](https://github.com/Uptimers/Uptimers-Actions/blob/main/LICENSE)
