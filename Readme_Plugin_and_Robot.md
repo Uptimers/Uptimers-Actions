@@ -1,4 +1,4 @@
-### 🤖 @beepboop_uptimers
+### 🤖 @beepboop-uptimers
 Robot the helper Plugin and Repo Edit Status Page.  
 Plugin:      
 *   Discord Setup Messages        
