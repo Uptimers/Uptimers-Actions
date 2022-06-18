@@ -1,0 +1,9 @@
+# @beepboop_uptimers
+setup:
+     FileSetup: config.sys
+                | config.json
+beepboop:
+  Greet: ISSUES_OPEN 
+    | ISSUES_CLOSE
+  GreetMSG: Welcome to \[Uptimers](https://github.com/beepboop_uptimers)
+    | Thank you using Uptimers🔥
